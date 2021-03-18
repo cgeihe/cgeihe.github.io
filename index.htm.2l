@@ -8,6 +8,7 @@
 	<!--Title of the page-->
    	<title>Home</title>
 
+<<<<<<< HEAD
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:200,400">
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -20,4 +21,15 @@
 		<p>God, I love it, when in Star Wars Captain Picard went to Hogwarts, to throw the "one ring" into Mount Doom with Harry's help.</p>
 	</div>
 </body>
+=======
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:200,400">
+	</head>
+	<body>
+
+		<div>
+			<h2>Welcome home</h2>
+			<p>God, I love it, when in Star Wars Captain Picard went to Hogwarts, to throw the "one ring" into the Misty Mountain with Ripley's help.</p>
+		</div>	
+	</body>
+>>>>>>> a3573e7a555408509df18e0586f2b6d224922c54
 </html>
